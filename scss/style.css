@@ -1,0 +1,35 @@
+/* kiểu chữ secton */
+h1.tittle-s1 {
+    font-family: 'Merriweather';
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -1.62px;
+    text-transform: none;
+    font-style: normal;
+    color: #070707;
+    font-size: 60px;
+    font-kerning: normal;
+}
+.heading-style-2 {
+    padding: 15px 0px 0px 0px;
+}
+h5.tittle-s1 {
+    font-family: 'Merriweather';
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 4.8px;
+    font-style: normal;
+    color: #fc661e;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'kern';
+    font-kerning: normal;
+}
+img.icon-smile-girl {
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 18px;
+    height: 32px;
+    font-style: normal;
+}
